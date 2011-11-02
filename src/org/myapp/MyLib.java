@@ -8,4 +8,6 @@ public interface MyLib extends Library {
   void register_callback(MyCallBack myc);
 
   int get_one();
+
+  int get_two();
 }

@@ -10,5 +10,7 @@ public class App {
     System.out.println(lib.calculate_str_len("string for calculation"));
 
     System.out.println(lib.get_one());
+
+    System.out.println(lib.get_two());
   }
 }
