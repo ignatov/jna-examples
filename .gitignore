@@ -1,4 +1,5 @@
 *.iws
 *.o
 *.so
+*.class
 out
